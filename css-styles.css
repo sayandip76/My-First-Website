@@ -1,0 +1,17 @@
+body{
+     background-color:floralwhite;
+    }
+hr {
+    border-top-color:slategray;
+    border-style:none;
+    border-top-style: dotted;
+    border-top-width: 5px;
+    width:10%;
+   }
+img{
+    border-radius:100%;
+    border: 5px darkslategray solid;
+    }
+h1{color: rgba(104, 10, 10, 0.979);}
+h3{color: rgba(104, 10, 10, 0.979);}
+h4{color: rgba(104, 10, 10, 0.979);}
